@@ -1,5 +1,7 @@
 # modern c++ micro benchmark header
 
+![Demo](https://raw.githubusercontent.com/amosbird/abmb/master/assets/demo.gif)
+
 based on https://github.com/cameron314/microbench
 
 and
